@@ -3,3 +3,4 @@ TTS
 torch
 numpy
 soundfile
+gunicorn
