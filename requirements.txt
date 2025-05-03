@@ -1,0 +1,5 @@
+Flask
+TTS
+torch
+numpy
+soundfile
